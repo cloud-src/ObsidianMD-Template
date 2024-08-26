@@ -78,6 +78,7 @@ On
 Objectives
 OPTIONS
 One
+ObsidianMD
 Fleeting
 Field
 File
@@ -120,6 +121,7 @@ talk
 there
 those
 term
+template
 fleeting
 for
 folder
@@ -146,6 +148,7 @@ Backlinks
 Bold
 Binary
 Boolean
+Blank
 external
 engineering
 easily
@@ -279,6 +282,7 @@ Toys
 The
 Telegram
 Thank
+Template
 vault
 version
 value
@@ -350,6 +354,7 @@ own
 one
 over
 out
+obsidian
 ideas
 install
 information

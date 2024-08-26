@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "README.md",
+      "timestamp": 1724702173160
+    },
+    {
       "filepath": "LATER/Untitled.md",
-      "timestamp": 1724701998586
-    },
-    {
-      "filepath": "EXTRAS/Untitled.md",
-      "timestamp": 1724701993201
-    },
-    {
-      "filepath": "EXTRAS/Templates/Untitled.md",
-      "timestamp": 1724701991179
-    },
-    {
-      "filepath": "EXTRAS/Canvas/Untitled.md",
-      "timestamp": 1724701989507
-    },
-    {
-      "filepath": "EXTRAS/Attachments/Untitled.md",
-      "timestamp": 1724701987168
+      "timestamp": 1724702159431
     }
   ],
   "bookmarkedFileStore": [],
