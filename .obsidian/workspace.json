@@ -11,8 +11,13 @@
             "id": "fa2a5e6d5462005c",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LATER/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "LATER/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LATER/Untitled.md"
+              }
             }
           },
           {
@@ -131,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LATER/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LATER/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,43 +204,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9c676fe69a6b5b1b",
+  "active": "fa2a5e6d5462005c",
   "lastOpenFiles": [
+    "EXTRAS/Untitled.md",
+    "LATER/Untitled.md",
+    "EXTRAS/Templates/Untitled.md",
+    "EXTRAS/Canvas/Untitled.md",
+    "EXTRAS/Attachments/Untitled.md",
+    "ARCHIVE/Untitled.md",
+    "ARCHIVE/Projects/Untitled.md",
+    "ARCHIVE/MoC/Untitled.md",
+    "ARCHIVE/Highlights/Untitled.md",
+    "ARCHIVE/Fleeting Notes/Untitled.md",
+    "ARCHIVE/Course Notes/Untitled.md",
+    "ARCHIVE/Atomic Notes/Untitled.md",
+    "3. REFERENCES/Untitled.md",
+    "2. KNOWLEDGE/MoC/Untitled.md",
+    "2. KNOWLEDGE/Untitled.md",
+    "1. PROJECTS/Untitled.md",
+    "0. INBOX/Highlights/Untitled.md",
+    "0. INBOX/Fleeting Notes/Untitled.md",
+    "0. INBOX/Course Notes/Untitled.md",
+    "0. INBOX/Untitled.md",
     "EXTRAS/Templates/Atomic Note.md",
     "EXTRAS/Templates/Basic.md",
     "EXTRAS/Templates/Fleeting Note.md",
     "EXTRAS/Templates/Project Overview.md",
     "LATER/Project Ideas.md",
     "LATER/Mechatronics.md",
-    "LATER/Code tutorials.md",
-    "LATER/Harvard CS50/!Harvard CS50 Overview.md",
-    "LATER/Harvard CS50/0 - Scratch.md",
-    "LATER/Harvard CS50/1 - C.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "LATER/small projects.md",
-    "EXTRAS/excalidraw/Drawing 2024-06-14 21.39.12.excalidraw.md",
     "EXTRAS/excalidraw",
-    "Excalidraw/Drawing 2024-06-14 21.30.05.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-14 21.32.36.excalidraw.md",
     "Excalidraw",
-    "2024-06-13.md",
-    "README.md",
     "LATER/Harvard CS50",
-    "0. INBOX/Course Notes/Learning Robotics/ESP/!Overview.md",
-    "0. INBOX/Course Notes/Learning Robotics/ESP/ESP-32 - Advanced microcontroller with WiFi & BlueTooth.md",
     "0. INBOX/Course Notes/Learning Robotics/ESP",
-    "EXTRAS/Templates/Untitled.md",
     "0. INBOX/Course Notes/Learning Robotics",
-    "EXTRAS/Templates/Untitled Kanban.md",
-    "0. INBOX/Untitled.md",
     "ARCHIVE/MoC",
     "ARCHIVE/Atomic Notes",
-    "ARCHIVE/Untitled.md",
     "ARCHIVE/Course Notes",
     "ARCHIVE/Highlights",
-    "ARCHIVE/Fleeting Notes",
-    "create a link.md",
-    "Welcome.md"
+    "ARCHIVE/Fleeting Notes"
   ]
 }
