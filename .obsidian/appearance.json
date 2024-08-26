@@ -1,0 +1,13 @@
+{
+  "enabledCssSnippets": [
+    "Notebook Backgrounds",
+    "Colored Sidebar Items",
+    "Header Spacing",
+    "line spacing"
+  ],
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "cssTheme": "Minimal",
+  "accentColor": ""
+}
